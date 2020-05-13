@@ -31,6 +31,6 @@ Each script has some documentation at the top of it, so I hope that helps!
 ## License and Acknowledgements
 This is Licensed under MIT as you and see in the LICENSE file, so use it however you want, in any comercial projects or not, just link this repository or this readme in the credits or somewhere.
 
-The button images used here and under the Folder "Prompts" were done by Nicolae Berbece from (Those Awesome Guys)[https://thoseawesomeguys.com/] and were graciously shared in Public Domain under Creative Comomns 0 (CC0). 
+The button images used here and under the Folder "Prompts" were done by Nicolae Berbece from [Those Awesome Guys](https://thoseawesomeguys.com/) and were graciously shared in Public Domain under Creative Comomns 0 (CC0). 
 
 They can be downloaded directly from their [site](https://thoseawesomeguys.com/prompts/) or from [OpenGameArt](https://opengameart.org/content/free-keyboard-and-controllers-prompts-pack) (where I found it originally).
